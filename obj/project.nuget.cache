@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNz9deSadc+tLZcnph292UU7mrHARWBgGjA5m7pGQRRZvJHU5tG24yWV4OiWtISHZi403gKJLK2maah445l8AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SANNI PHATAII\\Desktop\\EDSU-Project\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SANNI PHATAII\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
